@@ -1,5 +1,8 @@
 {
     "project": "CryptoSmokey",
+    "tags": [
+        "CryptoSmokey"
+        ],
     "policies": [
         "f5e3d5f6127f7c6cab07265894ad3803b0657ff9f1731a67c412dda6"
     ]
